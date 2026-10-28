@@ -1,4 +1,5 @@
-<img width="1850" height="918" alt="image" src="https://github.com/user-attachments/assets/49f3d7bd-b327-4c5f-a569-8c754ee3d063" /># Absensi-Sederhana
+**Absensi Sederhaana**
+
 Sistem Absensi Sederhana adalah aplikasi berbasis web yang dikembangkan menggunakan PHP dan MySQL untuk memudahkan pengelolaan data karyawan serta pencatatan kehadiran secara digital. Aplikasi ini dirancang dengan antarmuka yang sederhana agar mudah digunakan untuk kebutuhan administrasi absensi karyawan.
 
 🚀 Fitur Utama
